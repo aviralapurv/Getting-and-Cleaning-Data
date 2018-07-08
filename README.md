@@ -6,4 +6,4 @@ In sync with the requirements this project comprises:
 
 a tidy data set based on the original data set: tidy_data.txt and tidy_data.csv (nicely formatted on GitHub)
 an R script called run_analysis.R for performing the analysis
-a code book called CodeBook.md that describes variables, data and any transformations or work performed to clean up the data
+a code book called CodeBook.md that describes variables, data and any transformations or work performed to clean up the data.
